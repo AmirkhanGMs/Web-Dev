@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="da8a9397-6b55-4112-8760-c88dc87a3b98" name="Changes" comment="" />
+=======
+    <list default="true" id="a6add59e-df8f-4980-9f43-809b2b1c513d" name="Changes" comment="" />
+>>>>>>> 549294de5eb7b2ebdb96f2ef9037fd5ad8eedb27
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +17,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2ebMN3a0ur9IBGbgSxCqKixLx9y" />
+=======
+  <component name="ProjectId" id="2e9B0F29BseINYxUb5sdN7uKfuy" />
+>>>>>>> 549294de5eb7b2ebdb96f2ef9037fd5ad8eedb27
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -31,6 +40,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+>>>>>>> 549294de5eb7b2ebdb96f2ef9037fd5ad8eedb27
   <component name="RunManager">
     <configuration name="Lab8" type="Python.DjangoServer" factoryName="Django server">
       <module name="Lab8" />
@@ -59,18 +79,28 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="da8a9397-6b55-4112-8760-c88dc87a3b98" name="Changes" comment="" />
       <created>1712168780139</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712168780139</updated>
       <workItem from="1712168781514" duration="677000" />
+=======
+      <changelist id="3693cc1d-cbd5-43b1-94d6-a86d630c18a5" name="Changes" comment="" />
+      <created>1711306688944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711306688944</updated>
+      <workItem from="1711306690972" duration="4000" />
+>>>>>>> 549294de5eb7b2ebdb96f2ef9037fd5ad8eedb27
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -82,4 +112,6 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> 549294de5eb7b2ebdb96f2ef9037fd5ad8eedb27
 </project>
